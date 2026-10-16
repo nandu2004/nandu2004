@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Computer Science Post Graduate with a specialization in machine learning, data engineering, and backend systems.<br> Experienced in building end-to-end data pipelines,ML models, and production-style web applications using Python, Snowflake, dbt, and React/Node.js and SpringBoot. <br>Comfortable working across data processing, model development, and API integration, with focus on scalable and maintainable systems.<br>Currently working on ML related Research project
 
 
